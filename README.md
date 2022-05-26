@@ -16,3 +16,4 @@ helping out with our project
 
 This Project on Hotel Management is a general software developed (using Python) to simplify hotel operations by automating them. In this project, “Hotel Lexus” is the project’s hotel name. It covers major aspects of hotel management; it could perform the following operations- Hotel Booking, Provide you with Hotel Rooms Info, Room Service, Billing and Record-Keeping.We have used API to send confirmation message through sms to the client and have created a website for our hotel.The users data is stored in MySQL database.
 
+https://801088.wixsite.com/website
